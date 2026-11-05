@@ -1,0 +1,13 @@
+# Source PDFs are publishers' copyright and never enter git. Backed up in the
+# ErgoLabs Google Drive: My Drive/atlas/sources/plasma_physics_corpus/
+pdfs/
+
+# Work packets carry the source text; they stay local.
+work/
+
+# Scratch left by review runs
+tmp/
+
+.DS_Store
+._*
+__pycache__/
