@@ -1,0 +1,4 @@
+# Atlas corpus manifest (plan item 10; only source_store is read so far).
+# The source store holds every source file once, under its sha256 (ADR 0027).
+# ATLAS_SOURCE_STORE overrides this on a machine where Drive is mounted elsewhere.
+source_store = "~/Library/CloudStorage/GoogleDrive-ergolabsai@gmail.com/My Drive/atlas/sources"
